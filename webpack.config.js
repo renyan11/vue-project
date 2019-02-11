@@ -1,7 +1,7 @@
 const path = require('path')
 const htmlwebpackplugin = require('html-webpack-plugin')
 //提取css模块
-const ExtractTextPlugin = require("extract-text-webpack-plugin");
+//const ExtractTextPlugin = require("extract-text-webpack-plugin");
 //提供公共（第三方）依赖
 const webpack = require('webpack')
 //丑化压缩code

@@ -86,7 +86,6 @@ export default {
         //登录
         login () {
             this.isShowLogin = true
-            window.location.reload()
         },
         //关闭弹框
         onCloseMyDialog (showName) {

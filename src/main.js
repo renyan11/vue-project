@@ -29,7 +29,7 @@ Vue.use(MintUI)
 //引入elementUI
 import ElementUI from 'element-ui'
 /*加载elementui */
-import 'element-ui/lib/theme-chalk/index.css'
+import 'element-ui/lib/theme-default/index.css'
 Vue.use(ElementUI)
 
 //引入MUI的样式
@@ -76,9 +76,9 @@ let router = new VueRouter({
         {
             path : '/', redirect : { name : 'home'}
         },
-        /* {
+        {
             path : '/login',  name : 'login',component : LoginForm
-        }, */
+        },
         {
             path : '/home' ,name :'home',component : Home
         },
