@@ -1,0 +1,23 @@
+{
+    "status" : "0",
+    "message" : [
+        {
+            "img_url" : "../src/static/img/lunbo/1.jpg"
+        },
+        {
+            "img_url" : "../src/static/img/lunbo/2.jpg"
+        },
+        {
+            "img_url" : "../src/static/img/lunbo/3.jpg"
+        },
+        {
+            "img_url" : "../src/static/img/lunbo/4.jpg"
+        },
+        {
+            "img_url" : "../src/static/img/lunbo/5.jpg"
+        },
+        {
+            "img_url" : "../src/static/img/lunbo/6.jpg"
+        }
+    ]
+}

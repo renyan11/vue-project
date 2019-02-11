@@ -1,0 +1,8 @@
+body {
+    background-color: white;
+}
+.tmpl{
+    margin-bottom: 40px;
+    -webkit-overflow-scrolling: touch;
+    overflow:auto
+}

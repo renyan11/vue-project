@@ -1,0 +1,50 @@
+{
+    "status" : "0",
+    "message" : [
+        {
+            "id" : "1",
+            "title" : "国内",
+            "actived" : false
+        },
+        {
+            "id" : "2",
+            "title" : "国际",
+            "actived" : false
+        },
+        {
+            "id" : "3",
+            "title" : "娱乐",
+            "actived" : false
+        },
+        {
+            "id" : "4",
+            "title" : "体育",
+            "actived" : false
+        },
+        {
+            "id" : "5",
+            "title" : "财经",
+            "actived" : false
+        },
+        {
+            "id" : "6",
+            "title" : "科技",
+            "actived" : false
+        },
+        {
+            "id" : "7",
+            "title" : "军事",
+            "actived" : false
+        },
+        {
+            "id" : "8",
+            "title" : "互联网",
+            "actived" : false
+        },
+        {
+            "id" : "9",
+            "title" : "探索",
+            "actived" : false
+        }
+    ]
+}
